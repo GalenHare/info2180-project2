@@ -1,3 +1,4 @@
+//Completed extra feature: End-of-game-Notification
 let puzzleTile;
 let timing;
 let whiteYPos='300px';
